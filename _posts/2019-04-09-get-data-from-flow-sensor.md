@@ -1,7 +1,7 @@
 ---
 title: Getting data from Flow Sensors
 layout: post
-author: rishi
+author: Karan Kumar
 signature_img: /images/flow-meter-ck-overview.jpg
 use_math: true
 use_code: true
